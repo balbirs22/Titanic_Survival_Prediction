@@ -16,16 +16,16 @@ The sinking of the Titanic is one of the key sad tragedies in history and it too
 
 
 ## 3. Results for Logistic Regression
-<img src="https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/LogRegReport.png" width="80%" height="80%">
+<img src="[https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/LogRegReport.png](https://github.com/balbirs22/Titanic_Survival_Prediction/blob/main/LogRegReport.png)" width="80%" height="80%">
 
 
 ## 4. Results for Naive Bayes Classification
-<img src="https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/NaiveBayesReport.png" width="80%" height="80%">
+<img src="[https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/NaiveBayesReport.png](https://github.com/balbirs22/Titanic_Survival_Prediction/blob/main/NaiveBayesReport.png)" width="80%" height="80%">
 
 
 ## 5. Confusion Matrix for Logistic Regression
-<img src="https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/LogRegConfusionMatrix.png" width="40%" height="40%">
+<img src="[https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/LogRegConfusionMatrix.png](https://github.com/balbirs22/Titanic_Survival_Prediction/blob/main/LogRegConfusionMatrix.png)" width="40%" height="40%">
 
 
 ## 6. Confusion Matrix for Naive Bayes Classification
-<img src="https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/NaiveBayesConfusionMatrix.png" width="80%" height="80%">
+<img src="[https://github.com/balbirs22/TitanicSurvivalPrediction/blob/main/NaiveBayesConfusionMatrix.png](https://github.com/balbirs22/Titanic_Survival_Prediction/blob/main/NaiveBayesConfusionMatrix.png)" width="80%" height="80%">
